@@ -7,4 +7,4 @@ A modularized pipeline to utilize raw surface reflectance from satellite imagery
 
 ### Pipeline Flowchart
 
-![flowchart](https://github.com/lydiabrugere/opensource_imagery_pipeline/blob/flowchart.png)
+![flowchart](https://github.com/lydiabrugere/opensource_imagery_pipeline/blob/main/flowchart.png)
