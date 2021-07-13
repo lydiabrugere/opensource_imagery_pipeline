@@ -1,4 +1,4 @@
-# An open source imagery pipeline for given AOI
+# An open source imagery pipeline
 A modularized pipeline to utilize raw surface reflectance from satellite imagery to derive insights for vegetation monitoring. Mian features include:  
 
 1. Batch processing and streaming of multiple satellite sources (Landsat-7, Landsat-8 and Sentinel-2 satellites) from open data on AWS and GCP
